@@ -1,0 +1,41 @@
+{
+  "9dd9d2fc943fdbb6d728be000bfebb42" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a4e86e1c40d3548f",
+      "status" : "failed",
+      "statusDetails" : "expected 'Swipe' to equal 'SwipeBtn'",
+      "time" : {
+        "start" : 1618563468096,
+        "stop" : 1618563469679,
+        "duration" : 1583
+      }
+    } ]
+  },
+  "6ba10453bc27bbd006879fa9eb8a0c1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "98725805e89d2b66",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618563455552,
+        "stop" : 1618563468096,
+        "duration" : 12544
+      }
+    } ]
+  }
+}

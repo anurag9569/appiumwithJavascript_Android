@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected 'Swipe' to equal 'SwipeBtn'",
+      "children" : [ {
+        "name" : "test2",
+        "uid" : "a4e86e1c40d3548f",
+        "parentUid" : "0ea3a1401c38c4b13ae69a2fc833f0e2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1618563468096,
+          "stop" : 1618563469679,
+          "duration" : 1583
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "3af95351-10" ]
+      } ],
+      "uid" : "0ea3a1401c38c4b13ae69a2fc833f0e2"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
